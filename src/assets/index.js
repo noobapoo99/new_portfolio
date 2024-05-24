@@ -24,11 +24,17 @@ import threejs from "./tech/threejs.svg";
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
+import ircs from "./company/ircs.png";
+import bits from "./company/bits.png";
 import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import Real_img from "./Real_img.png";
+import quiz from "./quiz.png";
+import gallery from "./gallery.png";
+import BLOOD from "./BLOOD.png";
 
 export {
   logo,
@@ -55,8 +61,14 @@ export {
   meta,
   shopify,
   starbucks,
+  ircs,
   tesla,
   carrent,
   jobit,
+  bits,
+  BLOOD,
+  quiz,
+  gallery,
+  Real_img,
   tripguide,
 };
